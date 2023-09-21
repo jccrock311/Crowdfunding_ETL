@@ -43,8 +43,8 @@ Starter Files are located in the repo, but you can also download them [here](htt
 
 ### Create the Contacts DataFrame
 Choose one of the following two options for extracting and transforming the data from the `contacts.xlsx` Excel data:
-Option 1: Use Python dictionary methods.
-Option 2: Use regular expressions.
+- Option 1: Use Python dictionary methods.
+- Option 2: Use regular expressions.
 
 We chose Option 1 and completed the following steps:
 
